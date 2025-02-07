@@ -111,6 +111,13 @@ We encourage developers and tech enthusiasts to collaborate and enhance this pro
 - 🛠 **Enhance real-time prediction**: Add features like multiple face detection or alert systems.
 - ✨ **Fix bugs** and make improvements to make it more robust.
 
+  ## 🎉 License
+
+This project is licensed under the **MIT License**. Feel free to contribute, improve, and build upon it!
+
+---
+
+
 Let’s make the world a safer place – one mask detection at a time! 😷💙
 
 ---
